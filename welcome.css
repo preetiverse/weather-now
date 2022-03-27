@@ -1,0 +1,17 @@
+body{
+    
+    background-image: url("Weather Now (2).png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    
+}
+
+
+.image{
+    opacity: 0%;
+    height: 600px;
+    width: 1250px;
+}
